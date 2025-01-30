@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     public int health = 5;
     public TextMeshProUGUI healthText;
